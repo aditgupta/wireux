@@ -69,5 +69,5 @@ theme: standrews
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://aditgupta@bitbucket.org/aditgupta/wireux2.git
+  repo: https://github.com/aditgupta/wireux.git
   branch: master
